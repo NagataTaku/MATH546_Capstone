@@ -21,3 +21,14 @@ Capstone/
    ```bash
    python -m pip install -r requirements.txt
    ```
+
+2. Open `capstone_stage1.ipynb` in Jupyter Notebook.
+3. Execute `Run All`
+
+
+## Data Source
+
+Bitcoin data are provided through the course's `capstone_support` package.
+
+Original data sources and preparation details are available in
+`https://finance.yahoo.com/quote/BTC-USD/history/`.
