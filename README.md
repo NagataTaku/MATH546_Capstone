@@ -4,6 +4,7 @@ This project forecasts Bitcoin squared log returns over a 7-day horizon using St
 
 ## Project Structure
 
+```text
 Capstone/
 ├── capstone_support/        # Provided data and utilities
 └── MATH546_Capstone/
@@ -11,6 +12,7 @@ Capstone/
     ├── capstone_stage1.html   # Output html
     ├── requirements.txt       # Python dependencies
     └── README.md
+```
 
 ## How to Run
 
